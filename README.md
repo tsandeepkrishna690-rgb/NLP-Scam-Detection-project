@@ -56,5 +56,10 @@ The main objective is to identify unwanted or suspicious messages using text cla
 4. Run all code cells.
 5. Test the model using new messages.
 
-## ⚠️ Disclaimer
-This project is created for educational purposes. Spam classification does not guarantee that a message is fraudulent or
+## Results
+
+Add the actual evaluation results from the notebook here.
+
+## Conclusion
+
+This project demonstrates how NLP and Machine Learning can help identify spam messages and distinguish them from legitimate messages.
